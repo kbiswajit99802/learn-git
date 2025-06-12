@@ -2,6 +2,6 @@
 
 I am biswajit
 
-'''python
+```python
 print("Hello World")
-'''
+```
